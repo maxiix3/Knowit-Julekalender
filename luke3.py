@@ -1,4 +1,4 @@
-f = open('input3.txt') 
+f = open('luke3_data.txt') 
 friends = {}
 hates = {} 
 for line in f:
