@@ -1,5 +1,5 @@
 def day7():
-    f = open("luke7_input.txt")
+    f = open("luke7_data.txt")
     lines = f.readlines()
     x=0
     y=0
